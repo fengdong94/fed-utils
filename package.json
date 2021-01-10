@@ -1,0 +1,22 @@
+{
+  "name": "fed-utils",
+  "version": "1.0.0",
+  "description": "A library of Front-End utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fengdong94/fed-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengdong94/fed-utils/issues"
+  },
+  "homepage": "https://github.com/fengdong94/fed-utils#readme"
+}
